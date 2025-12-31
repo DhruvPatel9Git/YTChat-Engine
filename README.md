@@ -1,4 +1,4 @@
-# YoutubeChatBot
+# YTChat Engine
 
 Quick local runner for a YouTube transcript + RAG demo using Google Generative AI.
 
