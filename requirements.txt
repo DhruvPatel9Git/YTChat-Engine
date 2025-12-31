@@ -1,0 +1,10 @@
+python-dotenv
+youtube-transcript-api
+langchain>=0.0.200
+faiss-cpu
+chromadb
+google-generativeai
+google-api-python-client
+google-auth-oauthlib
+google-cloud-aiplatform
+tqdm
